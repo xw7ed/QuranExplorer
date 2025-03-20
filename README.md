@@ -49,7 +49,7 @@ The main menu provides these options:
 ```└── README.md           # This file```
 
 ## Data Sources and Credits
-The Quran database files (```quran_arabic.xml```, ```quran_english.xml```, ```quran_transliteration.xml```) included in this repository are sourced from https://github.com/ceefour/qurandatabase, created by ceefour. These files are used under the terms of their original license [specify the license if known, e.g., Creative Commons, MIT, etc.]. Full credit and thanks to ceefour for providing these valuable XML resources.
+The Quran database files (```quran_arabic.xml```, ```quran_english.xml```, ```quran_transliteration.xml```) included in this repository are sourced from https://github.com/ceefour/qurandatabase, created by ceefour. These files are used under the terms of their original license Creative Commons Attribution-NoDerivs 3.0 Unported. Full credit and thanks to ceefour for providing these valuable XML resources.
 
 ## Troubleshooting
 - If you get a "FileNotFoundError": Ensure all XML files are present in the repository directory
