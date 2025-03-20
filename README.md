@@ -14,8 +14,8 @@ A Python script to explore the Quran with Arabic text, English transliteration, 
 ## Installation
 
 1. Clone the repository:
-```git clone https://github.com/yourusername/InteractiveQuran.git```
-```cd InteractiveQuran```
+```git clone https://github.com/Son0fSun/QuranExplorer.git```
+```cd QuranExplorer```
 
 2. Install required Python packages (none beyond standard library):
    - The script uses only built-in modules (```xml.etree.ElementTree```, ```typing```, ```re```)
@@ -26,7 +26,7 @@ Note: The required XML database files (```quran_arabic.xml```, ```quran_english.
 
 Run the script from the command line:
 
-```python quran_explorer.py```
+```python QuranExplorer.py```
 
 The main menu provides these options:
 1. View specific verse by entering chapter and verse numbers
@@ -42,7 +42,7 @@ The main menu provides these options:
 
 ## File Structure
 ```InteractiveQuran/```
-```├── quran_explorer.py    # Main Python script```
+```├── QuranExplorer.py    # Main Python script```
 ```├── quran_arabic.xml     # Arabic text database```
 ```├── quran_english.xml    # English translation database```
 ```├── quran_transliteration.xml  # Transliteration database```
